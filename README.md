@@ -1,4 +1,4 @@
-# AWSWAFLogTOCSV
+# AWSWAFLogToCSV
 
 ## Description
 * Convert from AWS WAF Log to CSV.
@@ -14,7 +14,7 @@
 
 For example:
 ```shell
-.\AWSWAFLogToCSV.ps1 C:\work\awswaflog C:\work awswaflog.csv 
+.\AWSWAFLogToCSV.ps1 C:\work\awswaflog C:\work\awswaflog.csv 
 ```
 
 ## Sample
